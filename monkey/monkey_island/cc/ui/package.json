@@ -75,9 +75,9 @@
     "json-loader": "^0.5.7",
     "jwt-decode": "^2.2.0",
     "moment": "^2.22.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.2",
     "normalize.css": "^8.0.0",
-    "npm": "^6.4.1",
+    "npm": "^7.0.0",
     "prop-types": "^15.6.2",
     "rc-progress": "^2.2.6",
     "react": "^16.5.2",
@@ -99,7 +99,7 @@
     "redux": "^4.0.0",
     "sass-loader": "^7.1.0",
     "sha3": "^2.0.0",
-    "react-spinners": "^0.5.4",
+    "react-spinners": "^0.6.0",
     "@emotion/core": "^10.0.10",
     "react-desktop-notification": "^1.0.9"
   }
