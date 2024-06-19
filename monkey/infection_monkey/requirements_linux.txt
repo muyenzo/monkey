@@ -18,3 +18,4 @@ wmi
 pymssql
 pyftpdlib
 enum34
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
